@@ -25,7 +25,9 @@ ___________________________________________________________
   Suburban    30.970128   39.502714
   Urban       24.525772   16.571468 
   
-
+  The results across a 5 month period illustrated the demand signals within the urban areas of interest with suburban peaking in the end of Febuary /begin of March. the same demand signal increase is present in the rural area question for further analysis to consider operations seasonally within both areas as the demand signal dictates.
+  
+! PyBer_fare_summary.png 
 
 ## Summary:
 
