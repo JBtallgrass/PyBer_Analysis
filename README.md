@@ -37,11 +37,14 @@ ___________________________________________________________
   
 ### Average fare by ride and by driver
 
-  Rural        34.623440          55.486282
+  Rural        34.623440         
+               55.486282
   
-  Suburban     30.970128          39.502714
+  Suburban     30.970128
+               39.502714
   
-  Urban        24.525772          16.571468 
+  Urban        24.525772     
+               16.571468 
   
 #### Pyber Fare Summary over 5 month period
   
